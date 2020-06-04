@@ -13,3 +13,4 @@ el cual se encuentra en espera. Mediante un bucle recupera todos los reultados d
 ![Alt text](Imagenes/mpiCode.PNG?raw=true "Mpi Code")
 ## Multiprocessing
 Para el multiprocessing tambien se realizo por lotes, mismo metodo que el secuencial a diferencia que todo esto se encuentra dentro de una clase multiprocessing, a esta clase se le pasa como parametro una cola la cual se va a encargar de recuperar el valor que retorna la funcion de contar los numeros entre un rango, en el main se une este valor que retorn la clase iterando la cola y agregando este valor a una lista final.
+![Alt text](Imagenes/colas.PNG?raw=true "Colas Code")
