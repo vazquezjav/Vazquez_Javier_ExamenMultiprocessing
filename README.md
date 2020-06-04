@@ -1,6 +1,5 @@
 # Examen Computacion Paralela 
-Correr Mpi 
-$ mpiexec -n 10 python Vazquez_Javier_ExamenMPI..py
+**Comando :** $ mpiexec -n 10 python Vazquez_Javier_ExamenMPI..py
 ![Alt text](Imagenes/mpiexec.PNG?raw=true "Mpi Ejecucion")
 
 Para MPI se dividio la lista de acuerdo al N numero de procesos, esto menos uno, ya que el procesos 0 o Master envia cada pedazo de la Matriz
